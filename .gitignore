@@ -1,0 +1,4 @@
+
+# we're checking in the webstorm files but not workspace.xml
+.idea/workspace.xml
+dist/
